@@ -1,5 +1,7 @@
 # ⭐ Twinkl Buzzer
 
+<img width="1337" height="754" alt="buzzer 3" src="https://github.com/user-attachments/assets/7419cfb6-c3f0-4c2f-90bb-6c67ed7b744f" />
+
 A small PCB project that plays **Twinkle Twinkle Little Star** using a buzzer!
 
 I wanted to make something simple, fun, and interactive while learning more about electronics, PCB design, and how different components work together.
@@ -62,4 +64,8 @@ Through this project, I got to explore:
 - Connecting hardware with code.
 
 This is a small project, but it's another step in learning how to turn an idea into something physical!
+
+<img width="1083" height="681" alt="Screenshot_7-11-2026_224526_" src="https://github.com/user-attachments/assets/22f40fb0-22bc-48a5-a8d6-4a6f5d79fb5e" />
+<img width="1337" height="754" alt="buzzer 1" src="https://github.com/user-attachments/assets/b639d8cb-4859-482b-a6d6-a56c7781aa24" />
+
 
