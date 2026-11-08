@@ -1,7 +1,8 @@
-Item,Qty,Supplier,Cost/item,Total Cost,Link
-Buzzer,1,AliExpress,TBD,TBD,TBD
-Red LED,1,AliExpress,TBD,TBD,TBD
-Resistor,1,AliExpress,TBD,TBD,TBD
-Push Button,1,AliExpress,TBD,TBD,TBD
-Pin Header,1,AliExpress,TBD,TBD,TBD
-Custom PCB,1,AliExpress,TBD,TBD,TBD
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Buzzer,1,AliExpress,$0.00,$0.00,
+Red LED,1,AliExpress,$0.00,$0.00,
+Resistor,1,AliExpress,$0.00,$0.00,
+Push Button,1,AliExpress,$0.00,$0.00,
+Pin Header,1,AliExpress,$0.00,$0.00,
+Custom PCB,1,AliExpress,$0.00,$0.00,
+Estimated total shipping,1,,,$0.00,
